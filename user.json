@@ -1,0 +1,9 @@
+{
+    "firstName": "John",
+    "lastName": "Doe",
+    "age": 25,
+    "dateOfBirth": "1998-01-01",  
+    "address": "123 Main St",     
+    "gender": "Male",             
+    "postalCode": "12345"          
+}
